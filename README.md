@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @satyajeetk96
-- 👀 I’m interested in programming and signal processing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I’m Satyajeet. I'm urrently studying Electrical and Electronics at [National Institute of Technology Karnataka, Surathkal](https://www.nitk.ac.in/)
+
+I’m interested in Machine learning, building useful products, signal processing, and electronics
 
 <!---
 satyajeetk96/satyajeetk96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
