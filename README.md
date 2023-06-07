@@ -3,11 +3,9 @@ Hi there, I’m Satyajeet.
 I have a wide range of interests, including machine learning, signal processing, and web development.
 I take great joy in building useful products.
 
-<h2>Check out some of my favorite works</h2>
-<ul>
+#Check out some of my favorite works</h2>
     URL Shortener]{http://satyajeetk.pythonanywhere.com/}
     [Automated Notes Maker](https://github.com/satyajeetk96/Automated-Notes-Maker)
- </ul>
 
 
 <!---
